@@ -1,11 +1,11 @@
 {
-  "brent_price": "$112.78/bbl",
-  "brent_change": "+55% MTD",
-  "hormuz_vessels": "~5-6/day",
-  "usd_inr": "\u20b994.78",
-  "sp500": "6,344",
-  "gold": "$4,567/oz",
-  "situation_summary": "Trump extended Iran deadline to April 6 but Tehran denies talks exist, calling president deceitful. War entered advanced phase March 29 with intensified strikes on missile infrastructure. Diplomatic efforts by regional powers ongoing in Islamabad.",
-  "key_trigger": "Trump deadline for Iran to reopen Strait of Hormuz expires April 6, 8 PM ET",
-  "last_updated": "2026-03-31 09:53 IST"
+  "brent_price": "$109.03/bbl",
+  "brent_change": "+44.74% YTD",
+  "hormuz_vessels": "~11/day",
+  "usd_inr": "\u20b992.70",
+  "sp500": "6,583",
+  "gold": "$4,677/oz",
+  "situation_summary": "U.S. fighter jet shot down over Iran as conflict enters 36th day. First Western vessel transits Hormuz since war began. Trump signals potential end in 2-3 weeks while threatening infrastructure strikes.",
+  "key_trigger": "Iran reopening Strait of Hormuz and reaching deal with U.S. on nuclear program",
+  "last_updated": "2026-04-04 12:46 IST"
 }
