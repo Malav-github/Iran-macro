@@ -1,11 +1,11 @@
 {
-  "brent_price": "$109.03/bbl",
-  "brent_change": "+44.74% YTD",
-  "hormuz_vessels": "~11/day",
-  "usd_inr": "\u20b992.70",
+  "brent_price": "$109.24/bbl",
+  "brent_change": "+66% MTD approx",
+  "hormuz_vessels": "~12/day recent",
+  "usd_inr": "\u20b992.97",
   "sp500": "6,583",
-  "gold": "$4,677/oz",
-  "situation_summary": "U.S. fighter jet shot down over Iran as conflict enters 36th day. First Western vessel transits Hormuz since war began. Trump signals potential end in 2-3 weeks while threatening infrastructure strikes.",
-  "key_trigger": "Iran reopening Strait of Hormuz and reaching deal with U.S. on nuclear program",
-  "last_updated": "2026-04-04 12:46 IST"
+  "gold": "$4,686/oz",
+  "situation_summary": "Iran shot down US fighter jet Friday with one crew rescued and search continuing for second crew member. First Western ship transited Hormuz this week as Iran grants selective access to allied nations including Iraq exemption for oil exports.",
+  "key_trigger": "Trump's ceasefire conditional on Hormuz being open, free and clear - watch for Iranian waterway concessions",
+  "last_updated": "2026-04-05 09:12 IST"
 }
