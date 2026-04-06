@@ -1,11 +1,11 @@
 {
-  "brent_price": "$109.24/bbl",
-  "brent_change": "+66% MTD approx",
-  "hormuz_vessels": "~12/day recent",
-  "usd_inr": "\u20b992.97",
-  "sp500": "6,583",
-  "gold": "$4,686/oz",
-  "situation_summary": "Iran shot down US fighter jet Friday with one crew rescued and search continuing for second crew member. First Western ship transited Hormuz this week as Iran grants selective access to allied nations including Iraq exemption for oil exports.",
-  "key_trigger": "Trump's ceasefire conditional on Hormuz being open, free and clear - watch for Iranian waterway concessions",
-  "last_updated": "2026-04-05 09:12 IST"
+  "brent_price": "$109.03-$110.82/bbl",
+  "brent_change": "+7.78% from previous close",
+  "hormuz_vessels": "~5-6/day recent average",
+  "usd_inr": "\u20b993.5",
+  "sp500": "6,582.69",
+  "gold": "$4,635/oz",
+  "situation_summary": "US rescued downed F-15 crew member after firefight. Iran allowing essential goods transit through Hormuz while Israel faces missile strikes from Yemen. Trump's April 6 deadline approaches as selective vessel permissions continue.",
+  "key_trigger": "Trump's April 6 ultimatum for Iran to reopen the Strait of Hormuz fully",
+  "last_updated": "2026-04-06 09:16 IST"
 }
